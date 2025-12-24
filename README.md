@@ -29,6 +29,12 @@
 ### 実際の画面
 <img width="764" height="271" alt="image" src="https://github.com/user-attachments/assets/eb7b6138-0f20-4310-b31e-bd2fec62b7c3" />
 
+### 更新履歴  
+1.0.1  
+・パラメーターの可動域をYMM4に合わせた  
+・NET10にアップデートした  
+1.0  
+・リリース  
 
 ## ライセンス
 MIT License
